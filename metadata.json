@@ -1,0 +1,6 @@
+{
+  "name": "Spacecraft Hero Section",
+  "description": "A cloned, ultra-polished hero section for a spacecraft website with persistent structural layouts and amber accents on a pure black plane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
